@@ -1,11 +1,68 @@
-# Hi 👋, I'm QUANG VINH
+<div align="center">
 
-- 🔭 I'm currently working on **several projects**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Quang%20Vinh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=58&descSize=18&descColor=a8d8ea" />
 
-- 🌱 I'm currently learning **Reactjs And Java**
+</div>
 
-- 📫 How to reach me **vinhdangquang1301@gmail.com**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
+### 👨‍💻 About Me
 
+- 🎓 Student at **FPT University**
+- 🔭 Currently building projects with **Java Spring Boot** & **ReactJS**
+- 🌱 Learning deeper into **System Design** and **Clean Architecture**
+- 💡 Interested in backend systems, REST APIs and database optimization
+- 📫 Reach me at **[vinhdangquang1301@gmail.com](mailto:vinhdangquang1301@gmail.com)**
+
+---
+
+### 🛠 Tech Stack
+
+**Backend**
+
+![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
+
+**Frontend**
+
+![React](https://skillicons.dev/icons?i=react)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+**Database & Cloud**
+
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Azure](https://skillicons.dev/icons?i=azure)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [📦 IoT Kit Borrowing System](https://github.com/vinhdangquang1301) | Backend system for managing IoT kit borrowing & returning at FPT University | Java, Spring Boot, PostgreSQL, JWT |
+
+> 🔧 *More projects coming soon...*
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=vinhdangquang1301&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhdangquang1301&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinhdangquang1301@gmail.com)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+</div>
